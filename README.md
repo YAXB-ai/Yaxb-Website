@@ -1,10 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Yaxb-Website
 
 Codebase for Public website, the code is generated using NextJS framework generated from DivJoy 
 
 The final built code is generated to Static Website in the #OUT# folder
 =======
+=======
+#Yaxb-Website
+
+Codebase for Public website, the code is generated using NextJS framework generated from DivJoy
+
+The final built code is generated to Static Website in the #OUT# folder
+>>>>>>> 10c347f (Including header)
 
 ## 👉 Get Started
 Install dependencies
